@@ -38,7 +38,7 @@ export default function Page() {
       {yesPressed ? (
         <>
           <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnByNmQ0Znl6NnNlaW91amV5eHJwOXFvODNyN2p5MDFjbHo3a3B5NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/toyYGNqDME5gI/giphy.gif" />
-          <div className="my-4 text-4xl font-bold">Yei!!! Te amo Melocotoncita!! <3</div>
+          <div className="my-4 text-4xl font-bold">Yei!!! Te amo Melocotoncita!!</div>
         </>
       ) : (
         <>
